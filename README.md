@@ -7,4 +7,6 @@ To access the dataset trough GLOBI click [here](https://www.globalbioticinteract
 
 Interaction data has been mined from published literature for the South East Asia biogeographic region using [Biodiversity Observation Miner](https://github.com/fgabriel1891/BiodiversityObservationsMiner) app. 
 
+**Important Note**: Please refer to the tsv file to get the currently filtered interactions for S.E.asia. I'll update the csv file as soon as possible. Thanks! 
+
 If you have comments or questions please [open an issue](https://github.com/fgabriel1891/Plant-Frugivore-Interactions-SouthEastAsia/issues/new)
